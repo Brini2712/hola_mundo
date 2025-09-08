@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class IncrementPage extends StatefulWidget {
+  const IncrementPage({super.key});
+
   @override
   State<StatefulWidget> createState() {
     return _IncrementPageState();
